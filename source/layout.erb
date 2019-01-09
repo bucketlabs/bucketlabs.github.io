@@ -6,17 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>BucketLabs<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
-    <%= stylesheet_link_tag 'tachyons.min.css' %>
+    <%= stylesheet_link_tag 'tachyons.min.css', 'bucketlabs-gradients.css' %>
   </head>
-  <body class="helvetica w-100 bg-white">
+  <body class="helvetica w-100 bg-white navy">
       <section class="w-100">
+<%= partial "partials/header" %>
         <article>
-          <div class="ph3 ph5-ns">
+          <div class="pa3-ns">
             <div class="cf mw9 center">
-                <%= yield %>
+<%= yield %>
             </div>
           </div>
         </article>
+<%= partial "partials/footer" %>
       </section>
   </body>
 </html>
