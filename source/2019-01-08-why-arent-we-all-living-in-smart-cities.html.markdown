@@ -5,7 +5,7 @@ date: 2019-01-08 09:52 UTC
 tags:
 
 ---
-![head image](2019-01-08-why-aren’t-we-all-living-in-smart-cities/pic.png)
+![head image](2019-01-08-why-arent-we-all-living-in-smart-cities/pic.png)
 Our world is changing at an exponential rate, and the population of our cities is rising so quickly that traditional city and social planning isn’t sufficiently predictive, responsive and cost-effective.
 
 The resulting growing social inequality, strained services and infrastructure, and decline in our natural capital are threatening our communities’ ability to thrive.
