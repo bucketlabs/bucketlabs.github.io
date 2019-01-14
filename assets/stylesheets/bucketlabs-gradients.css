@@ -29,6 +29,7 @@ http://tachyons.io/docs/themes/gradients/
 .gradient-green { background: linear-gradient(0deg, rgba(95,171,46,1) 0%, rgba(125,202,76,1) 100%); }
 .gradient-light-grey { background: linear-gradient(0deg, rgba(203,203,203,1) 0%, rgba(238,238,238,1) 100%); }
 .gradient-red { background: linear-gradient(0deg, rgba(205,17,42,1) 0%, rgba(229,52,70,1) 100%); }
+.gradient-yellow { background: linear-gradient(0deg, rgba(223,189,22,1) 0%, rgba(243,222,36,1) 100%); }
 
 /* transparent headers */
 .gradient-header { background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.1) 100%); }
