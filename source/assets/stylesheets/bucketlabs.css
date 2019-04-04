@@ -28,6 +28,10 @@ http://tachyons.io/docs/themes/gradients/
 
 
 /* --- Parallax --- */
+/* @custom-media --breakpoint-not-small screen and (min-width: 30em);
+@custom-media --breakpoint-medium screen and (min-width: 30em) and (max-width: 60em);
+@custom-media --breakpoint-large screen and (min-width: 60em); */
+
 .bl-parallax-1 {
   background-image: url("../images/auckland-dusk.jpg");
   min-height: 320px;
@@ -51,4 +55,10 @@ http://tachyons.io/docs/themes/gradients/
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+@media screen and (max-width:30em) {
+  .bl-parallax-1, .bl-parallax-2, .bl-parallax-3 {
+    background-attachment: scroll;
+  }
 }
