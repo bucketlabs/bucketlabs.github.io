@@ -7,6 +7,15 @@
     <title>BucketLabs<%= ' - ' + current_article.title unless current_article.nil? %></title>
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag 'tachyons.min.css', 'fonts.css', 'bucket-colors.css', 'bucketlabs.css' %>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137722343-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-137722343-1');
+    </script>
   </head>
   <body class="helvetica w-100 bg-dark-gray mid-gray basiercircle">
       <section class="w-100">
