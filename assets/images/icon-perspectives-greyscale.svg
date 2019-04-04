@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="icon-perspectives-greyscale-a" x1="33.328%" x2="53.674%" y1="34.004%" y2="80.514%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#FFF"/>
+    </linearGradient>
+    <linearGradient id="icon-perspectives-greyscale-b" x1="28.424%" x2="50%" y1="40.46%" y2="66.662%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#FFF"/>
+    </linearGradient>
+    <linearGradient id="icon-perspectives-greyscale-c" x1="66.672%" x2="48.284%" y1="0%" y2="81.865%">
+      <stop offset="0%" stop-color="#FFF" stop-opacity=".6"/>
+      <stop offset="100%" stop-color="#FFF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-opacity=".8" fill-rule="evenodd">
+    <polygon fill="url(#icon-perspectives-greyscale-a)" points="60 59.728 110.001 30.864 110.001 88.591 60 117.455"/>
+    <polygon fill="url(#icon-perspectives-greyscale-b)" points="60 59.728 110.001 30.864 60.001 2 10 30.864"/>
+    <polygon fill="url(#icon-perspectives-greyscale-c)" points="10 59.728 60.001 30.864 60.001 88.591 10 117.455" transform="matrix(-1 0 0 1 70 0)"/>
+    <polygon fill="url(#icon-perspectives-greyscale-b)" points="60 116.591 110.001 87.728 60.001 58.864 10 87.728" opacity=".2"/>
+  </g>
+</svg>
