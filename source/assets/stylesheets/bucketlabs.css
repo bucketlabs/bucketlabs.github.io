@@ -1,22 +1,17 @@
+/* --- FONTS --- */
+.basiercircle { font-family: basier_circle, 'helvetica neue', helvetica, sans-serif; }
+
 /*!!!
-
 # [ADDON] GRADIENTS
-
 All gradients cut and pasted from cssgradient.io ;)
-
 ### Docs
-
 http://tachyons.io/docs/themes/gradients/
-
 ### Base
-
 `gradient` = background-color
-
 ### Modifiers
-
 - `-gradient-name` = dark-blue, lily, aqua, etc
 */
-.gradient-dark-blue { background: linear-gradient( 90deg, #4b6cb7 0%, #182848 100% ); }
+/* .gradient-dark-blue { background: linear-gradient( 90deg, #4b6cb7 0%, #182848 100% ); }
 .gradient-charcoal { background: linear-gradient( 90deg, rgba( 44, 56, 68, 1 ) 0%, rgba( 23, 32, 42, 1 ) 100% ); }
 .gradient-moon-gray { background: linear-gradient( 211deg, rgba( 234, 236, 238, 1 ) 0%, rgba( 234, 236, 238, 1 ) 100% ); }
 .gradient-lily { background: linear-gradient( 90deg, #efd5ff 0%, #515ada 100% ); }
@@ -29,7 +24,31 @@ http://tachyons.io/docs/themes/gradients/
 .gradient-green { background: linear-gradient(0deg, rgba(95,171,46,1) 0%, rgba(125,202,76,1) 100%); }
 .gradient-light-grey { background: linear-gradient(0deg, rgba(203,203,203,1) 0%, rgba(238,238,238,1) 100%); }
 .gradient-red { background: linear-gradient(0deg, rgba(205,17,42,1) 0%, rgba(229,52,70,1) 100%); }
-.gradient-yellow { background: linear-gradient(0deg, rgba(223,189,22,1) 0%, rgba(243,222,36,1) 100%); }
+.gradient-yellow { background: linear-gradient(0deg, rgba(223,189,22,1) 0%, rgba(243,222,36,1) 100%); } */
 
-/* transparent headers */
-.gradient-header { background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.1) 100%); }
+
+/* --- Parallax --- */
+.bl-parallax-1 {
+  background-image: url("../images/auckland-dusk.jpg");
+  min-height: 320px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bl-parallax-2 {
+  background-image: url("../images/auckland.jpg");
+  min-height: 320px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bl-parallax-3 {
+  background-image: url("../images/wellington-night-waterfront.jpg");
+  min-height: 320px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="65" viewBox="0 0 64 65">
+  <defs>
+    <linearGradient id="icon-challenge-3-a" x1="28.424%" x2="50%" y1="21.371%" y2="100%">
+      <stop offset="0%" stop-color="#F3929A"/>
+      <stop offset="100%" stop-color="#EC4C57"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(0 1)">
+    <circle cx="46.5" cy="27.25" r="12" fill="url(#icon-challenge-3-a)"/>
+    <circle cx="19.592" cy="42.5" r="12" fill="url(#icon-challenge-3-a)"/>
+    <circle cx="19.902" cy="12" r="12" fill="url(#icon-challenge-3-a)"/>
+    <ellipse cx="20" cy="61" fill="#EBEBEB" rx="11" ry="3"/>
+    <ellipse cx="46" cy="58" fill="#EBEBEB" rx="11" ry="3"/>
+  </g>
+</svg>

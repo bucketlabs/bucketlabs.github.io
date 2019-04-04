@@ -1,0 +1,51 @@
+---
+pageable: true
+---
+
+<div class="mw9 center pt3 pt5-ns pb4 pb6-ns">
+
+  <div class="cf center w-100 w-100-m w-60-ns tc pa3 pa5-ns pb3-ns">
+    <h1 class="f2 f1-ns lh-title dark-green">
+      Blog
+    </h1>
+  </div>
+
+
+
+
+
+
+
+  <% if paginate && num_pages >= 1 %>
+    <div class="cf center w-100 w-100-m w-50-ns tl pa3 pv0 lh-copy">
+      <p class="silver f6">Page <%= page_number %> of <%= num_pages %></p>
+      <% if prev_page %>
+        <%= link_to 'Previous page', prev_page, :class => "f6 link silver hover-mid-gray" %>
+      <% end %>
+    </div>
+  <% end %>
+
+
+  <% page_articles.each_with_index do |article, i| %>
+  <div class="cf center w-100 w-100-m w-50-ns tl pa3 lh-copy">
+    <h2 class="f3 f2-ns lh-title green mt2 mb0">
+      <%= link_to article.title, article, :class => "link green hover-dark-green" %>
+    </h2>
+    <span class="silver"><%= article.date.strftime('%B %Y') %></span>
+    <%= article.summary %>
+    <%= link_to 'Read more…', article, :class => "link blue hover-dark-blue" %>
+  </div>
+  <% end %>
+
+  <% if paginate %>
+    <% if next_page %>
+      <div class="cf center w-100 w-100-m w-50-ns tl pa3 lh-copy">
+        <%= link_to 'Next page', next_page, :class => "f6 link silver hover-mid-gray" %>
+      </div>
+    <% end %>
+  <% end %>
+
+
+
+
+</div>

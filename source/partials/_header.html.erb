@@ -1,12 +1,24 @@
-<nav class="fixed w-100 gradient-header">
-  <div class="mw9 center pa5-ns pa4">
-    <a class="fl w-40 v-mid dim link" href="index-wip.html" title="Home">
-      <%= image_tag 'logo.svg', :class => "w4" %>
-    </a>
-    <div class="fl w-60 v-mid tr f6 pt1">
-      <a class="link dim white dib mr3" href="index-wip.html" title="About">About</a>
-      <a class="link dim white dib mr3" href="team.html" title="Team">Team</a>
-      <a class="link dim white dib" href="contact.html" title="Contact">Contact</a>
+
+<nav class="fixed-ns w-100 bg-dark-gray">
+  <div class="cf center mw9 pv3 pv0-ns">
+    <div class="flex-ns items-center">
+      <div class="w-100 w-25-ns pa2 pa4-ns tc tl-ns">
+        <a class="link dim " href="/index.html" title="BucketLabs"><%= image_tag 'logo.svg', :class => "w4" %></a>
+      </div>
+      <div class="w-100 w-50-ns pa2 pa4-ns mr2 tc">
+        <a class="link dim white dib mr3" href="/datalab.html" title="DataLab">
+          <%= image_tag 'icon-datalab-greyscale.svg', :class => "w2", :style => "vertical-align: middle" %>
+        DataLab
+        </a>
+        <a class="link dim white dib " href="/perspectives.html" title="Perspectives">
+          <%= image_tag 'icon-perspectives-greyscale.svg', :class => "w2", :style => "vertical-align: middle" %>
+          <span>Perspectives</span>
+        </a>
+      </div>
+      <div class="w-100 w-25-ns pa2 pa4-ns tc tr-ns">
+        <a class="link dim white dib mr3" href="/blog.html" title="Blog">Blog</a>
+        <a class="link dim white dib " href="/about.html" title="About">About</a>
+      </div>
     </div>
   </div>
 </nav>

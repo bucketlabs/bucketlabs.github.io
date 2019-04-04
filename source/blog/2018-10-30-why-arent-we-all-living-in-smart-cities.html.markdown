@@ -1,14 +1,21 @@
 ---
 
 title: Why aren’t we all living in smart cities?
-date: 2019-01-08 09:52 UTC
+date: 2018-10-30 00:00 UTC
 tags:
 
 ---
-![head image](2019-01-08-why-arent-we-all-living-in-smart-cities/pic.png)
+***
+_This article appeared in the October 2018 issue of the ALGIM (Association of Local Government Information Management) quarterly newsletter._
+***
+
+![head image](2018-10-30-why-arent-we-all-living-in-smart-cities/algim.png)
+
 Our world is changing at an exponential rate, and the population of our cities is rising so quickly that traditional city and social planning isn’t sufficiently predictive, responsive and cost-effective.
 
 The resulting growing social inequality, strained services and infrastructure, and decline in our natural capital are threatening our communities’ ability to thrive.
+
+READMORE
 
 Simultaneously, we are living in a golden age of technology: sophisticated sensor devices and enormous computing power are available inexpensively to even small organisations, and techniques like machine learning can now help humans draw helpful insights from data even in the midst of chaotic change.
 
