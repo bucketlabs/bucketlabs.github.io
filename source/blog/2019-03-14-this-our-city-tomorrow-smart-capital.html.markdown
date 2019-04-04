@@ -1,7 +1,7 @@
 ---
 
 title: Our City Tomorrow - Smart Capital
-date: 2019-03-14 00:00 UTC
+date: 2019-03-14
 tags:
 
 ---

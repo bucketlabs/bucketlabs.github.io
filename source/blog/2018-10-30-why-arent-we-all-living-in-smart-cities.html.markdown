@@ -1,7 +1,7 @@
 ---
 
 title: Why aren’t we all living in smart cities?
-date: 2018-10-30 00:00 UTC
+date: 2018-10-30
 tags:
 
 ---
