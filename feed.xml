@@ -2,26 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog Name</title>
   <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/</id>
-  <link href="http://blog.url.com/"/>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2019-01-08T22:52:00+13:00</updated>
+  <updated>2019-03-14T13:00:00+13:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>Why aren’t we all living in smart cities?</title>
-    <link rel="alternate" href="http://blog.url.com/2019/01/08/why-arent-we-all-living-in-smart-cities.html"/>
-    <id>http://blog.url.com/2019/01/08/why-arent-we-all-living-in-smart-cities.html</id>
-    <published>2019-01-08T22:52:00+13:00</published>
-    <updated>2019-01-16T13:10:44+13:00</updated>
+    <title>Our City Tomorrow - Smart Capital</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2019/03/14/this-our-city-tomorrow-smart-capital.html"/>
+    <id>http://blog.url.com/blog/2019/03/14/this-our-city-tomorrow-smart-capital.html</id>
+    <published>2019-03-14T13:00:00+13:00</published>
+    <updated>2019-04-04T14:43:27+13:00</updated>
     <author>
       <name>Article Author</name>
     </author>
-    <content type="html">&lt;p&gt;&lt;img src="/2019/01/08/why-arent-we-all-living-in-smart-cities/pic.png" alt="head image" /&gt;
-Our world is changing at an exponential rate, and the population of our cities is rising so quickly that traditional city and social planning isn’t sufficiently predictive, responsive and cost-effective.&lt;/p&gt;
+    <content type="html">&lt;hr&gt;
+
+&lt;p&gt;&lt;em&gt;Hosted by Wellington City Council Mayor Justin Lester, Tim Packer presented at the first of three events in the Smart Capital Speaker Series: &amp;quot;Our City Tomorrow - Smart Capital&amp;quot;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src="/blog/2019/03/14/this-our-city-tomorrow-smart-capital/our-city-tomorrow.png" alt="head image" /&gt;&lt;/p&gt;
+
+&lt;p&gt;People are always on the move. But now there’s more of us and many are heading towards cities. Today over 55% of us live in cities and by 2050 that will increase to 68%. That&amp;#39;s over 6.4 billion people living in cities. Right now that equates to an urban migration of over 1.5 million people every week.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;This rapid population growth is putting huge strains on our cities infrastructure and services.  Social issues are being exacerbated as is the impact we have on our environment. Climate change is already here - last year was the fourth hottest year on record ever. These conditions are starting to make an impact on our communities&amp;#39; ability to thrive - and maybe even survive.&lt;/p&gt;
+
+&lt;p&gt;Simultaneously, there’s no doubt in my mind that we are living in a golden age of technology. Sophisticated sensor devices and enormous computing power are available inexpensively to even small organisations, and techniques like machine learning and AI can now provide us with insights from data that just haven’t been possible before.&lt;/p&gt;
+
+&lt;p&gt;The Smart Cities field promises to apply these new tools and technologies to help our communities address their key issues by making better decisions, informed by relevant data. And so in recent times forward thinking cities have been trialling systems and commissioning an assortment of vendors in pursuit of these benefits.&lt;/p&gt;
+
+&lt;p&gt;I’ve had the privilege of working in this field for some time now, working with some very talented and driven folks both inside councils and in technology companies, to practically apply and road test these new tools validating their purpose and reliability.&lt;/p&gt;
+
+&lt;h1&gt;Details of my experience&lt;/h1&gt;
+
+&lt;p&gt;It’s not the easiest job and I have to say it’s been quite a bruising journey but also so rewarding when you make those breakthroughs that you know will help people to help other people.  &lt;/p&gt;
+
+&lt;p&gt;We now know it’s possible to cost effectively measure air quality and environmental factors on every street corner if we chose to. We can alert swimmers to water contamination as soon as it happens and we can analyse soundscapes to determine how noisy our city is.&lt;/p&gt;
+
+&lt;p&gt;We also know that with techniques like machine learning we can count and categorise things like cars from existing camera feeds to help with transport operations and planning.&lt;/p&gt;
+
+&lt;p&gt;We can even classify and count native bird species from audio recordings so we can provide impact measures for our various predator free programs.&lt;/p&gt;
+
+&lt;p&gt;—&lt;/p&gt;
+
+&lt;p&gt;One of the standout projects for me in recent times was working with the good folks at Wellington City Councils Community Welfare Team.  By bringing together a range of social and asset data we were able to help the council and partner agencies collaborate to help those in need.&lt;/p&gt;
+
+&lt;p&gt;Based on my experience, and not to ignore the appropriate level of governance, privacy and data sovereignty that we need to wrapper around these technologies, I think they’re ready to provide reliable and unique insights into our cities.&lt;/p&gt;
+
+&lt;p&gt;So the tech is amazing, and it’s ready for prime time, and it’s starting to be deployed for good purpose. But for now it’s being deployed in isolated pockets or silos.&lt;/p&gt;
+
+&lt;p&gt;I think that’s because we traditionally run cities in discrete operational silos (like Parking or Community Welfare or Parks Reserves) so we tend to constrain the data from each to those silos.&lt;/p&gt;
+
+&lt;h1&gt;Cities are complex&lt;/h1&gt;
+
+&lt;p&gt;But our cities don’t work in silos.  You see, the physical, social and natural systems in our cities are connected intimately into a complex ecosystem, and they directly affect each other.  I don’t think we’ll solve transport congestion by looking at roads alone.&lt;/p&gt;
+
+&lt;p&gt;Complex topics like urban transformation or community wellbeing could benefit from a more holistic perspective where we integrate those data silos together.&lt;/p&gt;
+
+&lt;h1&gt;Community gardens&lt;/h1&gt;
+
+&lt;p&gt;Take another example.  My happy place! 5 minutes from this venue, tucked away on the edge of the town belt, there’s a community garden that I volunteer at – Innermost Community Gardens.  &lt;/p&gt;
+
+&lt;p&gt;It’s beautiful and regenerative, it’s naturally biodiverse, socially diverse and provides so much benefit to so many people and so many species in many different ways.&lt;/p&gt;
+
+&lt;h1&gt;Benefits are not measured well, it’s actually quite hard&lt;/h1&gt;
+
+&lt;p&gt;Apart from this being a shameless opportunity for me to promote community gardens it’s also an example of something that provides so many benefits that today aren’t measured well by any city and therefore perhaps the opportunity to plan for them in a broader city sense is constrained.&lt;/p&gt;
+
+&lt;h1&gt;Air pollution and planning for those benefits, measuring the impact&lt;/h1&gt;
+
+&lt;p&gt;I love gardening. I’m not so keen on roses to be honest but they’re pretty, and we like pretty at the gardens as well.  I love growing awesome salad crops and nutrient dense plums and passionfruit and even bananas.  Yes, we’re growing bananas in Wellington now!&lt;/p&gt;
+
+&lt;p&gt;Aside of all the benefits I get as a gardener I know green spaces and trees can block airborne particulates (dust) very effectively.  &lt;/p&gt;
+
+&lt;p&gt;There is growing scientific evidence that small particulates such as those that come off cars can pose quite a health risk to both our lungs and our brains. So if we understand those risks and can measure the benefits that trees provide against those risks, with sensors, then perhaps planning for green spaces would become integral to a broader plan to develop healthier city transport networks.&lt;/p&gt;
+
+&lt;p&gt;And when we implement those transport networks then perhaps we’ll also be able to measure the impact against our transport, personal and community wellbeing objectives to determine if the project was successful or not.&lt;/p&gt;
+
+&lt;h1&gt;Bringing data together makes sense&lt;/h1&gt;
+
+&lt;p&gt;So breaking down data silo’s and bringing data together for a broader perspective seems like the right way to go to me.&lt;/p&gt;
+
+&lt;h1&gt;BucketLabs&amp;#39; game&lt;/h1&gt;
+
+&lt;p&gt;That is something we’re working on right now at BucketLabs.  &lt;/p&gt;
+
+&lt;p&gt;We’re bringing data together from council and trusted providers (such as Stats Data Ventures), to provide broader perspectives on pressing topics - such as medium density housing, healthy streets and car parking programs - to support our city practitioners and decision makers.  &lt;/p&gt;
+
+&lt;p&gt;We’re big on reducing waste and inefficiencies so we’re working on tools to mix and understand complex data easily. Consider them much like recipe books that can be passed from one council to another.&lt;/p&gt;
+
+&lt;h1&gt;The end game&lt;/h1&gt;
+
+&lt;p&gt;In summary, with the ability to measure more things, provide trusted insightful data and to break down silos with broader perspectives, we’ll be able to make better, more informed decisions for everyone in our cities.&lt;/p&gt;
+
+&lt;p&gt;We’ll value our green spaces much like we do with any other city asset today and we’ll be more cost and resource effective.&lt;/p&gt;
+
+&lt;p&gt;And I believe we will find ways to improve our quality of life and our community wellbeing with yet even more people living in our cities.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Why aren’t we all living in smart cities?</title>
+    <link rel="alternate" href="http://blog.url.com/blog/2018/10/30/why-arent-we-all-living-in-smart-cities.html"/>
+    <id>http://blog.url.com/blog/2018/10/30/why-arent-we-all-living-in-smart-cities.html</id>
+    <published>2018-10-30T13:00:00+13:00</published>
+    <updated>2019-04-04T14:43:40+13:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;hr&gt;
+
+&lt;p&gt;&lt;em&gt;This article appeared in the October 2018 issue of the ALGIM (Association of Local Government Information Management) quarterly newsletter.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src="/blog/2018/10/30/why-arent-we-all-living-in-smart-cities/algim.png" alt="head image" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our world is changing at an exponential rate, and the population of our cities is rising so quickly that traditional city and social planning isn’t sufficiently predictive, responsive and cost-effective.&lt;/p&gt;
 
 &lt;p&gt;The resulting growing social inequality, strained services and infrastructure, and decline in our natural capital are threatening our communities’ ability to thrive.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;Simultaneously, we are living in a golden age of technology: sophisticated sensor devices and enormous computing power are available inexpensively to even small organisations, and techniques like machine learning can now help humans draw helpful insights from data even in the midst of chaotic change.&lt;/p&gt;
 
