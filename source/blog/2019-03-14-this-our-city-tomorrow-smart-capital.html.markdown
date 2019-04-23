@@ -5,10 +5,12 @@ date: 2019-03-14
 tags:
 
 ---
-***
+
 _Hosted by Wellington City Council Mayor Justin Lester, Tim Packer presented at the first of three events in the Smart Capital Speaker Series: "Our City Tomorrow - Smart Capital"._
-***
+
 ![head image](2019-03-14-this-our-city-tomorrow-smart-capital/our-city-tomorrow.png)
+
+# Our city tomorrow - the conundrum
 
 People are always on the move. But now there’s more of us and many are heading towards cities. Today over 55% of us live in cities and by 2050 that will increase to 68%. That's over 6.4 billion people living in cities. Right now that equates to an urban migration of over 1.5 million people every week.
 
@@ -22,7 +24,7 @@ The Smart Cities field promises to apply these new tools and technologies to hel
 
 I’ve had the privilege of working in this field for some time now, working with some very talented and driven folks both inside councils and in technology companies, to practically apply and road test these new tools validating their purpose and reliability.
 
-# Details of my experience
+# The journey travelled
 
 It’s not the easiest job and I have to say it’s been quite a bruising journey but also so rewarding when you make those breakthroughs that you know will help people to help other people.  
 

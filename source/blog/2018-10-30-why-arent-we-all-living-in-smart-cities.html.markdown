@@ -5,9 +5,9 @@ date: 2018-10-30
 tags:
 
 ---
-***
+
 _This article appeared in the October 2018 issue of the ALGIM (Association of Local Government Information Management) quarterly newsletter._
-***
+
 
 ![head image](2018-10-30-why-arent-we-all-living-in-smart-cities/algim.png)
 
